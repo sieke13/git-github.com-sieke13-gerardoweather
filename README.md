@@ -16,7 +16,9 @@ give the forecast for 5 days
 - [Questions](#questions)
 
 ## Installation
-install the visual studio modules and npm start
+add the .env file whit your openweather key to the server folder
+install npm
+npm start
 
 ## Usage
 view the forecast weather for any city
@@ -38,7 +40,9 @@ npm start
 > https://www.youtube.com/watch?v=5UdonnLnfgg
 
 > [!WARNING]
-> none
+> Please add your openweather api key to the server folder to make it work!
+>API_BASE_URL=http://api.openweathermap.org/data/2.5/
+>API_KEY=YOUR_API_KEY
 
 > [!TIP]
 > check the weather before leave home!
