@@ -40,7 +40,7 @@ npm start
 > https://www.youtube.com/watch?v=5UdonnLnfgg
 
 > [!WARNING]
-> Please add your openweather api key to the server folder to make it work!
+> Please add your .env file to the server folder whit your openweather api key folder to make it work!
 >API_BASE_URL=http://api.openweathermap.org/data/2.5/
 >API_KEY=YOUR_API_KEY
 
